@@ -30,9 +30,7 @@ The "RSSS-Chat-Connect-App" is a social messaging platform developed in Kotlin u
 
 [Download project documentation](https://github.com/raghulsmith/RSSS-Chat-Connect-App/files/11230305/naan.mudhalvan.project.documentation.pdf)
 
-# Demo Video
 
-   https://user-images.githubusercontent.com/63907782/231982790-1be8b3f5-a418-4df8-9e1b-38786b979900.mp4
 
 
 
